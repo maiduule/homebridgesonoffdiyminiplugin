@@ -2,16 +2,21 @@
   "name": "homebridge-sonoff-diy-mini",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "homebridge-plugin"
   ],
   "engines": {
-    "homebridge": ">=0.2.5"
+    "node": ">=10.17.0",
+    "homebridge": ">=1.0.0"
   },
-  "author": "",
+  "author": "Maidu Üle",
   "license": "MIT",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maiduule/homebridgesonoffdiyminiplugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maiduule/homebridgesonoffdiyminiplugin/issues"
+  },
+  "description": "Homebridge Sonoff DIY mini plugin"
 }
