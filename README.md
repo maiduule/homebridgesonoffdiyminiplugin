@@ -1,3 +1,7 @@
+npm install
+
+npm link
+
 "accessories": [
         {
             "accessory": "SonoffDIYMini",
